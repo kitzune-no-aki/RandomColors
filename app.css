@@ -1,0 +1,16 @@
+#h1, div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background-color: whitesmoke;
+}
+#button{
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 10px;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border: 0;
+}
